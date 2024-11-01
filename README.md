@@ -1,3 +1,5 @@
+Status: Inactive
+
 Random Number Generator Game (WIP)
 
 Involve a starting balance for players. $500 Players enter an amount they would like to bet.
